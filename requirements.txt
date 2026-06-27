@@ -1,0 +1,10 @@
+streamlit
+spacy
+pytesseract
+langchain
+chromadb
+openai
+pypdf
+python-docx
+pandas
+Pillow
